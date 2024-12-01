@@ -39,8 +39,8 @@ A simple console-based calculator application built in Java, capable of performi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/simple-calculator.git
-   cd simple-calculator
+   git clone https://github.com/timebetov/Java_Simple_Console_Calc.git
+   cd Java_Simple_Console_Calc
 
 2. **Compile the Code**:
 3. **Run the Program**:
